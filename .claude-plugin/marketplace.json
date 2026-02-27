@@ -2,22 +2,13 @@
   "name": "skill-issue-marketplace",
   "owner": {
     "name": "Snehal Raj",
-    "github": "SnehalRaj"
-  },
-  "metadata": {
-    "description": "Gamified active learning for agentic coding sessions",
-    "version": "1.0.0"
+    "email": "snehal.raj@qcware.com"
   },
   "plugins": [
     {
       "name": "skill-issue",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/SnehalRaj/skill-issue.git"
-      },
-      "description": "Embeds bite-sized challenges (pen-and-paper, explain-back, spot-the-bug) into your coding workflow. Tracks XP, streaks, and topic mastery across sessions.",
-      "version": "1.0.0",
-      "strict": true
+      "description": "Gamified active learning embedded in your AI coding workflow. Challenges you on fundamentals at the right moment, tracks mastery via a knowledge graph. Works with Claude Code, Cursor, Codex.",
+      "source": "https://github.com/SnehalRaj/skill-issue"
     }
   ]
 }
