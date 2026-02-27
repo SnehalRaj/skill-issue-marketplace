@@ -1,6 +1,6 @@
 # skill-issue marketplace
 
-Claude Code plugin marketplace for skill-issue.
+Claude Code plugin marketplace for skill-issue — gamified active learning for agentic coding sessions.
 
 ## Install
 
@@ -9,4 +9,8 @@ Claude Code plugin marketplace for skill-issue.
 /plugin install skill-issue@skill-issue-marketplace
 ```
 
-That's it. Start a session and skill-issue activates automatically.
+## What is skill-issue?
+
+A living pedagogical brain alongside your AI coding agent. It challenges you on fundamentals you actually need — not random trivia — using a knowledge graph where concepts are weighted by how often they appear in real work.
+
+See [skill-issue](https://github.com/SnehalRaj/skill-issue) for full docs.
